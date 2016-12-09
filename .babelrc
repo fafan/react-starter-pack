@@ -1,0 +1,3 @@
+{
+  "presets": ["react","react-app","es2015"]
+}
